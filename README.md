@@ -1,2 +1,2 @@
-# mercury
+# splinter
 lightweight electric filter design library
